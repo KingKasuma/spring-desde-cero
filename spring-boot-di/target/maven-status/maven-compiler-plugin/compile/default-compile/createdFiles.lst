@@ -1,0 +1,11 @@
+com/bolsadeideas/springboot/di/app/controllers/FacturaController.class
+com/bolsadeideas/springboot/di/app/models/service/IServicio.class
+com/bolsadeideas/springboot/di/app/models/domain/Factura.class
+com/bolsadeideas/springboot/di/app/models/domain/ItemFactura.class
+com/bolsadeideas/springboot/di/app/models/domain/Cliente.class
+com/bolsadeideas/springboot/di/app/SpringBootDiApplication.class
+com/bolsadeideas/springboot/di/app/models/service/MiServicio.class
+com/bolsadeideas/springboot/di/app/controllers/IndexController.class
+com/bolsadeideas/springboot/di/app/AppConfig.class
+com/bolsadeideas/springboot/di/app/models/domain/Producto.class
+com/bolsadeideas/springboot/di/app/models/service/MiServicioComplejo.class

@@ -1,0 +1,11 @@
+/home/mike/Projects/Java/spring-desde-cero/spring-boot-di/src/main/java/com/bolsadeideas/springboot/di/app/SpringBootDiApplication.java
+/home/mike/Projects/Java/spring-desde-cero/spring-boot-di/src/main/java/com/bolsadeideas/springboot/di/app/models/service/IServicio.java
+/home/mike/Projects/Java/spring-desde-cero/spring-boot-di/src/main/java/com/bolsadeideas/springboot/di/app/models/domain/Cliente.java
+/home/mike/Projects/Java/spring-desde-cero/spring-boot-di/src/main/java/com/bolsadeideas/springboot/di/app/controllers/FacturaController.java
+/home/mike/Projects/Java/spring-desde-cero/spring-boot-di/src/main/java/com/bolsadeideas/springboot/di/app/models/service/MiServicioComplejo.java
+/home/mike/Projects/Java/spring-desde-cero/spring-boot-di/src/main/java/com/bolsadeideas/springboot/di/app/AppConfig.java
+/home/mike/Projects/Java/spring-desde-cero/spring-boot-di/src/main/java/com/bolsadeideas/springboot/di/app/controllers/IndexController.java
+/home/mike/Projects/Java/spring-desde-cero/spring-boot-di/src/main/java/com/bolsadeideas/springboot/di/app/models/domain/ItemFactura.java
+/home/mike/Projects/Java/spring-desde-cero/spring-boot-di/src/main/java/com/bolsadeideas/springboot/di/app/models/domain/Producto.java
+/home/mike/Projects/Java/spring-desde-cero/spring-boot-di/src/main/java/com/bolsadeideas/springboot/di/app/models/service/MiServicio.java
+/home/mike/Projects/Java/spring-desde-cero/spring-boot-di/src/main/java/com/bolsadeideas/springboot/di/app/models/domain/Factura.java
